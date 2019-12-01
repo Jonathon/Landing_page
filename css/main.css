@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
   }
+
+  #header-img {
+    display: block;
+    width:  auto;
+    height:200px;
+  }
