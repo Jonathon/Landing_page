@@ -9,3 +9,8 @@
     width:  auto;
     height:100px;
   }
+
+  #nav-bar {
+    display: flex;
+  }
+
