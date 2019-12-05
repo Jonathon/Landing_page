@@ -10,7 +10,10 @@
     height:100px;
   }
 
-  #nav-bar {
-    display: flex;
+  #nav-bar ul {
+      display: flex;
+      justify-content: space-between;
+    }
+          
   }
 
