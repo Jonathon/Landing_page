@@ -13,7 +13,7 @@
   #nav-bar ul {
       display: flex;
       justify-content: space-between;
-
+      align-items: center;
     }
           
   .container {
@@ -24,7 +24,9 @@
     display: flex;
   }
 
-  nav li: {
+  nav li {
     flex: auto;
   }
-
+ body {
+   ;
+ }
