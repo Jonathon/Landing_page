@@ -39,12 +39,13 @@
    background-color: blueviolet;
    margin: 0,auto;
    height: 100px;
+   text-align:center;
 
  }
 
  li {
   list-style: none; 
-  text-decoration-line: none;
+  text-decoration: none;
  
   marker: none;
   
