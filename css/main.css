@@ -17,11 +17,13 @@
       align-items: center;
     }
           
-  .container {
-   max-width: 960px;
-   O auto ; 
-  }
-  nav ul {
+    .container {
+      max-width: 1000px;
+      width: 100%;
+      margin: 0 auto;
+    } 
+ 
+      nav ul {
     display: flex;
   }
 
