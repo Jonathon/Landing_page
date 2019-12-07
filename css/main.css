@@ -43,6 +43,7 @@
  }
 
  li {
-   text-decoration-line: none;
-   marker: none;
+  list-style: none; 
+  text-decoration-line: none;
+  marker: none;
  }
