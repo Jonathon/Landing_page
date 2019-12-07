@@ -39,5 +39,10 @@
    background-color: blueviolet;
    margin: 0,auto;
    height: 100px;
-   
+
+ }
+
+ li {
+   text-decoration-line: none;
+   marker: none;
  }
