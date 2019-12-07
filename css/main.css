@@ -25,7 +25,7 @@
  
       nav ul {
     display: flex;
-    margin:0 auto;
+    
   }
 
   nav li {
@@ -33,4 +33,9 @@
   }
  body {
   background-image: radial-gradient(#53e9ea)  ;
+ }
+
+ #nav-bar {
+   background-color: blueviolet;
+   margin: 0,auto;
  }
