@@ -18,8 +18,8 @@
     }
           
   .container {
-   max-width: 1000px;
-   height: auto; 
+   max-width: 960px;
+   O auto ; 
   }
   nav ul {
     display: flex;
