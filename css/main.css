@@ -22,6 +22,8 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
+      padding-top:25px ;
+      border-radius: 30px;
     }
           
     .container {
