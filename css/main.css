@@ -6,6 +6,7 @@
 
  body {
    background-color: cadetblue;
+   font-family: 'Open Sans', sans-serif;
  } 
   
   
@@ -73,8 +74,8 @@ a:hover {
 }
 
 .nav-link {
-padding: 5px
-;
+padding: 5px;
 border: 2px;
 border-bottom-left-radius: 0vmin;
+font-size: 1em;
 }
