@@ -72,3 +72,9 @@ a:hover {
   background-color: gold;
 }
 
+.nav-link {
+padding: 5px
+;
+border: 2px;
+border-bottom-left-radius: 0vmin;
+}
